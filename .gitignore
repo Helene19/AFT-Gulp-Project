@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+public/*.js
+public/*.css
+public/index.min.html
+public/images/*.jpg
+public/images/*.png
