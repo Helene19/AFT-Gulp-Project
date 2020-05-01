@@ -1,6 +1,6 @@
 # AFT-Gulp-Project 
 
-##Gulp
+## Gulp
 
 This project includes some basic stuff with gulp.
 
@@ -21,13 +21,13 @@ In this project you should install some gulp plugins.
  * gulp-minify-inline
  * gulp-html
  
- #First Steps
+ # First Steps
  
  At the beginning, you have to install npm with this command:
   
     npm install
 
-##Using Gulp
+## Using Gulp
 
 When you write
 
